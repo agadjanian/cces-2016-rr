@@ -1,6 +1,6 @@
 # Codebook for Combined 2016 CCES Modules with Racial Resentment Battery
 
-The data file `cces2016-rr-condensed.csv` combines various modules from the 2016 CCES that all contain the racial resentment battery, condenses the dataset, keeps a few relevant variables, and appends on weights from the 2016 CCES Common Content. All used data can be found in the [CCES Dataverse](https://dataverse.harvard.edu/dataverse/cces). 
+The data file `cces2016-rr-condensed.csv` combines various modules from the 2016 CCES that all contain the racial resentment battery, condenses the dataset, keeps a few relevant variables, and appends on weights from the 2016 CCES Common Content. All used data can be found in the [CCES Dataverse](https://dataverse.harvard.edu/dataverse/cces).
 
 Note that different CCES modules have different item texts and response options for the racial resentment battery. Generally, item text is similar across modules. In some cases, response option text is not straightforward (e.g. the text suggests response options were experimentally manipulated, or the response text is not meaningful). Idiosyncrasies like these are noted in the `notes` variable.
 
